@@ -1,0 +1,3 @@
+Este es mi hash secreto de seguridad:
+
+key = wh3iudnwndconwrnfwmdcon
