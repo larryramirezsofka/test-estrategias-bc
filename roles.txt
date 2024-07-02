@@ -5,4 +5,4 @@
 - Harold [Asistente]
 - Ana Maria [Asistente]
 - Jose Mauricio [Asistente]
-- Alexander [Asistente]
+- Alexander [DB-Admin]
