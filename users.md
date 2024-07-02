@@ -5,3 +5,5 @@
 - Ana
 - Beatriz
 - Harold
+- Jhohan
+- Jose
