@@ -1,2 +1,9 @@
 # test-estrategias-bc
-## Saludos a todos!
+
+# Repositorio de prueba para iSeries
+
+- Jose Mauricio
+- Beatriz
+- Juan Carlos
+
+> - "Todo entendido!"
